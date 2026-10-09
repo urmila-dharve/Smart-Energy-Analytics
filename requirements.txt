@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
+streamlit
+SQLAlchemy
+psycopg2-binary
+python-dotenv
